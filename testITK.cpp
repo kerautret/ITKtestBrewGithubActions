@@ -1,6 +1,6 @@
   #include <cmath>
   #include <iostream>
-  using ::signbit;  
+  using std::signbit;  
   int main()
   {
     //using ImageType = itk::Image< unsigned short, 3 >;
